@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Proyecto
+
 Proyecto - Servicios generales
 =======
 # Servicios
@@ -10,3 +8,4 @@ Servicios
 # Servicicios_frontend
 Servicicios_frontend
 >>>>>>> 65d06670f7620c65a084f2d425bc67c9852737a9
+![Home](home.png)
