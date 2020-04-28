@@ -2,7 +2,7 @@
 Proyecto - Servicios generales
 =======
 # Home
-![Home](Home.png)
+![Home](hme.png)
 
 # Solicita
 ![Solicita](Solicita.png)
